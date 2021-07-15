@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name eec)(type Legacy)(uri ${KIPRJMOD}/IC_Infineon_SLB9665TT20FW563XUMA3/eec.lib)(options "")(descr ""))
+)
